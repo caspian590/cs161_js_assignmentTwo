@@ -22,7 +22,7 @@ public class ExerciseOne {
 		if (Number > 0)
 			
 			System.out.println ("Positive");
-		
+		 
 		if (Number == 0)
 			System.out.println ("zero");
 		
